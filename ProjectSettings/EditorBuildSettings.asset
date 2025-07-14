@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu2.unity
+    guid: 205943726d57d48438343567588733bc
+  - enabled: 1
+    path: Assets/Scenes/Decorator.unity
+    guid: 248a78255f8c19844a938803c314cc4a
+  - enabled: 1
+    path: Assets/Scenes/Photographer.unity
+    guid: 5c22874a886c1de46a08042552328d33
+  - enabled: 1
+    path: Assets/Scenes/TattooArtist.unity
+    guid: 6546646c67a8339439e3f23cc783b71c
+  - enabled: 1
+    path: Assets/Scenes/WebDesigner.unity
+    guid: 3d86f1d7bf1327c4a9ececd25f8bc168
+  - enabled: 1
+    path: Assets/Scenes/Filmmaker.unity
+    guid: 9cd50806bf7492f4a94b5a3bcd6fa305
+  - enabled: 1
+    path: Assets/Scenes/Writer.unity
+    guid: 4717f94f333e7a340a2023e642fac6b5
+  m_configObjects: {}
